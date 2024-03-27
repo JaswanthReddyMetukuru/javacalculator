@@ -3,7 +3,8 @@ package java_calculator;
 import java.util.Scanner;
 
 public class MainClass {
-	
+
+	private int key;
 	public void calculator() {
 		System.out.println(" Java Console Calculator");
         Scanner scanner = new Scanner(System.in);

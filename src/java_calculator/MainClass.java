@@ -6,6 +6,7 @@ public class MainClass {
 
 	private int key;
 	private int lock;
+    //testing
 	
 	public void calculator() {
 		System.out.println(" Java Console Calculator");
